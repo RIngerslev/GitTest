@@ -7,5 +7,6 @@ public class HelloWorld {
         System.out.println("Hola");
         System.out.println("Hvad sker der??");
         System.out.println("Peter er den bedste");
+        System.out.println("nyt");
     }
 }
